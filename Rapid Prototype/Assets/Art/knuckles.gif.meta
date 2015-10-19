@@ -1,0 +1,3851 @@
+fileFormatVersion: 2
+guid: 9efa6997ee0044ab295d876f220b6561
+timeCreated: 1445292240
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knuckles_0
+    21300002: knuckles_1
+    21300004: knuckles_2
+    21300006: knuckles_3
+    21300008: knuckles_4
+    21300010: knuckles_5
+    21300012: knuckles_6
+    21300014: knuckles_7
+    21300016: knuckles_8
+    21300018: knuckles_9
+    21300020: knuckles_10
+    21300022: knuckles_11
+    21300024: knuckles_12
+    21300026: knuckles_13
+    21300028: knuckles_14
+    21300030: knuckles_15
+    21300032: knuckles_16
+    21300034: knuckles_17
+    21300036: knuckles_18
+    21300038: knuckles_19
+    21300040: knuckles_right
+    21300042: knuckles_21
+    21300044: knuckles_22
+    21300046: knuckles_23
+    21300048: knuckles_24
+    21300050: knuckles_25
+    21300052: knuckles_26
+    21300054: knuckles_27
+    21300056: knuckles_28
+    21300058: knuckles_29
+    21300060: knuckles_30
+    21300062: knuckles_31
+    21300064: knuckles_32
+    21300066: knuckles_33
+    21300068: knuckles_34
+    21300070: knuckles_35
+    21300072: knuckles_36
+    21300074: knuckles_37
+    21300076: knuckles_38
+    21300078: knuckles_39
+    21300080: knuckles_40
+    21300082: knuckles_41
+    21300084: knuckles_42
+    21300086: knuckles_43
+    21300088: knuckles_44
+    21300090: knuckles_45
+    21300092: knuckles_46
+    21300094: knuckles_47
+    21300096: knuckles_48
+    21300098: knuckles_49
+    21300100: knuckles_50
+    21300102: knuckles_51
+    21300104: knuckles_52
+    21300106: knuckles_53
+    21300108: knuckles_54
+    21300110: knuckles_55
+    21300112: knuckles_56
+    21300114: knuckles_57
+    21300116: knuckles_58
+    21300118: knuckles_59
+    21300120: knuckles_60
+    21300122: knuckles_61
+    21300124: knuckles_62
+    21300126: knuckles_63
+    21300128: knuckles_64
+    21300130: knuckles_65
+    21300132: knuckles_66
+    21300134: knuckles_67
+    21300136: knuckles_68
+    21300138: knuckles_69
+    21300140: knuckles_70
+    21300142: knuckles_71
+    21300144: knuckles_72
+    21300146: knuckles_73
+    21300148: knuckles_74
+    21300150: knuckles_75
+    21300152: knuckles_76
+    21300154: knuckles_77
+    21300156: knuckles_78
+    21300158: knuckles_79
+    21300160: knuckles_80
+    21300162: knuckles_81
+    21300164: knuckles_82
+    21300166: knuckles_83
+    21300168: knuckles_84
+    21300170: knuckles_85
+    21300172: knuckles_86
+    21300174: knuckles_87
+    21300176: knuckles_88
+    21300178: knuckles_89
+    21300180: knuckles_90
+    21300182: knuckles_91
+    21300184: knuckles_92
+    21300186: knuckles_93
+    21300188: knuckles_94
+    21300190: knuckles_95
+    21300192: knuckles_96
+    21300194: knuckles_97
+    21300196: knuckles_98
+    21300198: knuckles_99
+    21300200: knuckles_100
+    21300202: knuckles_101
+    21300204: knuckles_102
+    21300206: knuckles_103
+    21300208: knuckles_104
+    21300210: knuckles_105
+    21300212: knuckles_106
+    21300214: knuckles_107
+    21300216: knuckles_108
+    21300218: knuckles_109
+    21300220: knuckles_110
+    21300222: knuckles_111
+    21300224: knuckles_112
+    21300226: knuckles_113
+    21300228: knuckles_114
+    21300230: knuckles_115
+    21300232: knuckles_116
+    21300234: knuckles_117
+    21300236: knuckles_118
+    21300238: knuckles_119
+    21300240: knuckles_120
+    21300242: knuckles_121
+    21300244: knuckles_122
+    21300246: knuckles_123
+    21300248: knuckles_124
+    21300250: knuckles_125
+    21300252: knuckles_126
+    21300254: knuckles_127
+    21300256: knuckles_128
+    21300258: knuckles_129
+    21300260: knuckles_130
+    21300262: knuckles_131
+    21300264: knuckles_132
+    21300266: knuckles_133
+    21300268: knuckles_134
+    21300270: knuckles_135
+    21300272: knuckles_136
+    21300274: knuckles_137
+    21300276: knuckles_138
+    21300278: knuckles_139
+    21300280: knuckles_140
+    21300282: knuckles_141
+    21300284: knuckles_142
+    21300286: knuckles_143
+    21300288: knuckles_144
+    21300290: knuckles_145
+    21300292: knuckles_146
+    21300294: knuckles_147
+    21300296: knuckles_148
+    21300298: knuckles_149
+    21300300: knuckles_150
+    21300302: knuckles_151
+    21300304: knuckles_152
+    21300306: knuckles_153
+    21300308: knuckles_154
+    21300310: knuckles_155
+    21300312: knuckles_156
+    21300314: knuckles_157
+    21300316: knuckles_158
+    21300318: knuckles_159
+    21300320: knuckles_160
+    21300322: knuckles_161
+    21300324: knuckles_162
+    21300326: knuckles_163
+    21300328: knuckles_164
+    21300330: knuckles_165
+    21300332: knuckles_166
+    21300334: knuckles_167
+    21300336: knuckles_168
+    21300338: knuckles_169
+    21300340: knuckles_170
+    21300342: knuckles_171
+    21300344: knuckles_172
+    21300346: knuckles_173
+    21300348: knuckles_174
+    21300350: knuckles_175
+    21300352: knuckles_176
+    21300354: knuckles_177
+    21300356: knuckles_178
+    21300358: knuckles_179
+    21300360: knuckles_180
+    21300362: knuckles_181
+    21300364: knuckles_182
+    21300366: knuckles_183
+    21300368: knuckles_184
+    21300370: knuckles_185
+    21300372: knuckles_186
+    21300374: knuckles_187
+    21300376: knuckles_188
+    21300378: knuckles_189
+    21300380: knuckles_190
+    21300382: knuckles_191
+    21300384: knuckles_192
+    21300386: knuckles_193
+    21300388: knuckles_194
+    21300390: knuckles_195
+    21300392: knuckles_196
+    21300394: knuckles_197
+    21300396: knuckles_198
+    21300398: knuckles_199
+    21300400: knuckles_200
+    21300402: knuckles_201
+    21300404: knuckles_202
+    21300406: knuckles_203
+    21300408: knuckles_204
+    21300410: knuckles_205
+    21300412: knuckles_206
+    21300414: knuckles_207
+    21300416: knuckles_208
+    21300418: knuckles_209
+    21300420: knuckles_210
+    21300422: knuckles_211
+    21300424: knuckles_212
+    21300426: knuckles_213
+    21300428: knuckles_214
+    21300430: knuckles_215
+    21300432: knuckles_216
+    21300434: knuckles_217
+    21300436: knuckles_218
+    21300438: knuckles_219
+    21300440: knuckles_220
+    21300442: knuckles_221
+    21300444: knuckles_222
+    21300446: knuckles_223
+    21300448: knuckles_224
+    21300450: knuckles_225
+    21300452: knuckles_226
+    21300454: knuckles_227
+    21300456: knuckles_228
+    21300458: knuckles_229
+    21300460: knuckles_230
+    21300462: knuckles_231
+    21300464: knuckles_232
+    21300466: knuckles_233
+    21300468: knuckles_234
+    21300470: knuckles_235
+    21300472: knuckles_236
+    21300474: knuckles_237
+    21300476: knuckles_238
+    21300478: knuckles_239
+    21300480: knuckles_240
+    21300482: knuckles_241
+    21300484: knuckles_242
+    21300486: knuckles_243
+    21300488: knuckles_244
+    21300490: knuckles_245
+    21300492: knuckles_246
+    21300494: knuckles_247
+    21300496: knuckles_248
+    21300498: knuckles_249
+    21300500: knuckles_250
+    21300502: knuckles_251
+    21300504: knuckles_252
+    21300506: knuckles_253
+    21300508: knuckles_254
+    21300510: knuckles_255
+    21300512: knuckles_256
+    21300514: knuckles_257
+    21300516: knuckles_258
+    21300518: knuckles_259
+    21300520: knuckles_260
+    21300522: knuckles_261
+    21300524: knuckles_262
+    21300526: knuckles_263
+    21300528: knuckles_264
+    21300530: knuckles_265
+    21300532: knuckles_266
+    21300534: knuckles_267
+    21300536: knuckles_268
+    21300538: knuckles_269
+    21300540: knuckles_270
+    21300542: knuckles_271
+    21300544: knuckles_272
+    21300546: knuckles_273
+    21300548: knuckles_274
+    21300550: knuckles_275
+    21300552: knuckles_276
+    21300554: knuckles_277
+    21300556: knuckles_278
+    21300558: knuckles_279
+    21300560: knuckles_280
+    21300562: knuckles_281
+    21300564: knuckles_282
+    21300566: knuckles_283
+    21300568: knuckles_284
+    21300570: knuckles_285
+    21300572: knuckles_286
+    21300574: knuckles_287
+    21300576: knuckles_288
+    21300578: knuckles_289
+    21300580: knuckles_290
+    21300582: knuckles_291
+    21300584: knuckles_292
+    21300586: knuckles_293
+    21300588: knuckles_294
+    21300590: knuckles_295
+    21300592: knuckles_296
+    21300594: knuckles_297
+    21300596: knuckles_298
+    21300598: knuckles_299
+    21300600: knuckles_300
+    21300602: knuckles_301
+    21300604: knuckles_302
+    21300606: knuckles_303
+    21300608: knuckles_304
+    21300610: knuckles_305
+    21300612: knuckles_306
+    21300614: knuckles_307
+    21300616: knuckles_308
+    21300618: knuckles_309
+    21300620: knuckles_310
+    21300622: knuckles_311
+    21300624: knuckles_312
+    21300626: knuckles_313
+    21300628: knuckles_314
+    21300630: knuckles_315
+    21300632: knuckles_316
+    21300634: knuckles_317
+    21300636: knuckles_318
+    21300638: knuckles_319
+    21300640: knuckles_320
+    21300642: knuckles_321
+    21300644: knuckles_322
+    21300646: knuckles_323
+    21300648: knuckles_324
+    21300650: knuckles_325
+    21300652: knuckles_326
+    21300654: knuckles_327
+    21300656: knuckles_328
+    21300658: knuckles_329
+    21300660: knuckles_330
+    21300662: knuckles_331
+    21300664: knuckles_332
+    21300666: knuckles_333
+    21300668: knuckles_334
+    21300670: knuckles_335
+    21300672: knuckles_336
+    21300674: knuckles_337
+    21300676: knuckles_338
+    21300678: knuckles_339
+    21300680: knuckles_340
+    21300682: knuckles_341
+    21300684: knuckles_342
+    21300686: knuckles_343
+    21300688: knuckles_344
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knuckles_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 819
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 819
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 819
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 819
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 819
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 819
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 819
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 853
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 819
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 819
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 819
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 819
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 819
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_13
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 819
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 819
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 819
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 819
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 819
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_18
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 819
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 820
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_right
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 819
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 819
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 819
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 819
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 819
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 819
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 819
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 819
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_28
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 819
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_29
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 789
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 790
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 808
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 806
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 801
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 809
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_35
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 807
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 771
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 771
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 771
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 771
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 771
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 771
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 749
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 749
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_44
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 749
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_45
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 800
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_46
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 797
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_47
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 797
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 749
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 749
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_50
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 749
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_51
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 796
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_52
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 796
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_53
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 749
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_54
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 782
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_55
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 749
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_56
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 749
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_57
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 750
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_58
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 750
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 750
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_60
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 750
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 705
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_62
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 705
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 706
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 705
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_65
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 705
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_66
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 705
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 705
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 704
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_69
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 706
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_70
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 705
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_71
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 706
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_72
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 705
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_73
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 705
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_74
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 705
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 706
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_76
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_77
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 706
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_78
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 706
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_79
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 706
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_80
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 706
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 659
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 659
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 659
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_84
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 659
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_85
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 665
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_86
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 665
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_87
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 665
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_88
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 665
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_89
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 664
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_90
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 664
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_91
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 664
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_92
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 662
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_93
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 663
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_94
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 664
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_95
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 663
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_96
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 666
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_97
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 665
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_98
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 665
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_99
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 665
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_100
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 660
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_101
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 615
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 616
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_103
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 615
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_104
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 621
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_105
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 621
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_106
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 621
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_107
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 614
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_108
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 614
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_109
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 615
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_110
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 619
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_111
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 617
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_112
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 617
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_113
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 617
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_114
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 617
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_115
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 617
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_116
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 617
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_117
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 618
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_118
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 620
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_119
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 620
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_120
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 621
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_121
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 621
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_122
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 564
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_123
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 565
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 566
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_125
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 566
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_126
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 567
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_127
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 568
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_128
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 568
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_129
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 566
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_130
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 565
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_131
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 568
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_132
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 572
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_133
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 578
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_134
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 576
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_135
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 578
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_136
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 578
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_137
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 586
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_138
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 585
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_139
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 574
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_140
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 576
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_141
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 581
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_142
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 584
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_143
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 513
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_144
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 513
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_145
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 513
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_146
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 513
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_147
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 513
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_148
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 513
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_149
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 513
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_150
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 513
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_151
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 513
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_152
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 513
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_153
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 513
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_154
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 513
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_155
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 520
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_156
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 520
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_157
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 522
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_158
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 527
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_159
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 528
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_160
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 529
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_161
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 530
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_162
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 529
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_163
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 468
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_164
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 472
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 470
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_166
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 471
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_167
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 471
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_168
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 471
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_169
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 468
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_170
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 470
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_171
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 469
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_172
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 469
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_173
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 469
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_174
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 469
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_175
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 469
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_176
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 477
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_177
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 479
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_178
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 482
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_179
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 483
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_180
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 480
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_181
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_182
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 481
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_183
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 424
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_184
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 417
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_185
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 421
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_186
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 417
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_187
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 417
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_188
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 418
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_189
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 417
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_190
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 420
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_191
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 420
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_192
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 420
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_193
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 419
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_194
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 419
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_195
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 418
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_196
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 419
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_197
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 420
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_198
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 423
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_199
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 425
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_200
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 425
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_201
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 423
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_202
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 424
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_203
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 363
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_204
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 364
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_205
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 366
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_206
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 367
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_207
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 368
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_208
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 369
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_209
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 370
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_210
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 371
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_211
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 373
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_212
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 368
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_213
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 368
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_214
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 368
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_215
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 368
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_216
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 372
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_217
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 372
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_218
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 368
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_219
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 368
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_220
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 369
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_221
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 369
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_222
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 308
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_223
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 308
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_224
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 308
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_225
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 308
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_226
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 309
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_227
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 309
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_228
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 312
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_229
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 312
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_230
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 312
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_231
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 312
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_232
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 312
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_233
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 312
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_234
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 318
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_235
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 319
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_236
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 319
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_237
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 318
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_238
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 316
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_239
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 252
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_240
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 255
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_241
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 258
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_242
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 262
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_243
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 257
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_244
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 258
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_245
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 253
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_246
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 253
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_247
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 262
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_248
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 265
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_249
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 265
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_250
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 265
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_251
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 265
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_252
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 265
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_253
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 267
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_254
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 268
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_255
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 268
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_256
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 267
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_257
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 268
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_258
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 203
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_259
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 203
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_260
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 204
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_261
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 204
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_262
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 203
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_263
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 204
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_264
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 203
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_265
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 214
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_266
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 215
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_267
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 216
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_268
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 217
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_269
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 216
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_270
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 198
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_271
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 207
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_272
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 207
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_273
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 212
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_274
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 212
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_275
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 212
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_276
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 167
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_277
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 182
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_278
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 195
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_279
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 204
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_280
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 194
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_281
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 178
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_282
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 163
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_283
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 161
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_284
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 159
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_285
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 164
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_286
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 164
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_287
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_288
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 164
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_289
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 165
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_290
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 165
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_291
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 165
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_292
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 165
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_293
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 165
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_294
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 116
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_295
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 115
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_296
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 115
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_297
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 115
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_298
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 116
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_299
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 116
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_300
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 115
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_301
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 115
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_302
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 115
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_303
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 113
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_304
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 113
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_305
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 113
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_306
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 112
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_307
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 113
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_308
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_309
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 118
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_310
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 238
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_311
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_312
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_313
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 69
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_314
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 68
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_315
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_316
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 69
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_317
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 69
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_318
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 69
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_319
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 69
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_320
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 69
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_321
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 69
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_322
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 69
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_323
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 69
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_324
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 69
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_325
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 69
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_326
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 69
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_327
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 69
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_328
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 67
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_329
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_330
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_331
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_332
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_333
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 17
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_334
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 17
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_335
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_336
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_337
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 18
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_338
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 18
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_339
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 17
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_340
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 20
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_341
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 19
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_342
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 15
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_343
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 19
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knuckles_344
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 22
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
