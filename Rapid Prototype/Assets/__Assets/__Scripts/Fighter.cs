@@ -109,9 +109,11 @@ public class Fighter : MonoBehaviour {
  			}
 			if(Input.GetKeyDown(KeyCode.DownArrow)){
 				print ("fix this");
+				//moveDirection.z = 0; -> freeze z 
 			}
 			if(Input.GetKeyDown(KeyCode.UpArrow)){
 				print ("fix this");
+				//moveDirection.z = 0; -> freeze z...2d movement
 			}
 			if(Input.GetKeyDown(KeyCode.LeftArrow)){
 				sprend.sprite = left_sprite;
