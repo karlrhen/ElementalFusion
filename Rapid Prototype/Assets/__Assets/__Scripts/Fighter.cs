@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 [RequireComponent(typeof(CharacterController))]
 
@@ -71,15 +72,30 @@ public class Fighter : MonoBehaviour {
 	public float    jump_speed    = 8.0F;
 	public float    gravity       = 20.0F;
 	private Vector3 moveDirection = Vector3.zero;
-
+ 
 	private CharacterController controller{
 		get{
 			return GetComponent<CharacterController>();
 		}
 	}
 
+	/* Fighter Stats */
+	public  int   health;
+	public  int   max_health;
+	public  Image health_bar; 
+
+	void Start(){
+		health     = 100;
+		max_health = 100;
+		health_bar = transform.FindChild ("FighterCanvas").FindChild ("HealthBG").FindChild ("Health").GetComponent<Image> ();
+	}
+
 	void Update(){
 		Move ();
+		if(Input.GetKeyDown(KeyCode.A)){
+			Hit (10);
+			print ("inflicting damage!");
+		}
 	}
 
 	void Move(){
@@ -88,9 +104,9 @@ public class Fighter : MonoBehaviour {
 			moveDirection = transform.TransformDirection(moveDirection);
 			moveDirection *= speed;
 			if (Input.GetKeyDown(KeyCode.Space)){
-				moveDirection.y = jump_speed;
-				sprend.sprite = up_sprite;
-			}
+				moveDirection.y     = jump_speed;
+				sprend.sprite       = up_sprite;
+ 			}
 			if(Input.GetKeyDown(KeyCode.DownArrow)){
 				print ("fix this");
 			}
@@ -103,12 +119,18 @@ public class Fighter : MonoBehaviour {
 			if(Input.GetKeyDown(KeyCode.RightArrow)){
 				sprend.sprite = right_sprite;
 			}
+
 		}
 		moveDirection.y -= gravity * Time.deltaTime;
 		controller.Move(moveDirection * Time.deltaTime);
 
-		if (controller.velocity.x == 0 && controller.velocity.y == 0 && controller.isGrounded) {
+		if (controller.velocity.x == 0 && controller.velocity.y == 0 ) {
 			sprend.sprite = down_sprite;
 		}
+	}
+
+	public void Hit(int damage){
+		health -= damage;
+		health_bar.fillAmount = (float)health / (float)max_health;
 	}
 }
