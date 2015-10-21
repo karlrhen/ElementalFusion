@@ -91,6 +91,11 @@ public class Fighter : MonoBehaviour {
 	}
 
 	void Update(){
+
+		Vector3 pos = transform.position;
+		pos.z = 0;
+		transform.position = pos;
+
 		Move ();
 		if(Input.GetKeyDown(KeyCode.A)){
 			Hit (10);
